@@ -17,6 +17,7 @@ python3 twint.py -s depression --since 2018-05-15 -o depressive_tweets_processed
 
 #### Test Data Split
 Collected tweets are split into training, testing, and validation sets with a ratio of 60%:20%:20%.
+
 |               | Depressive Tweets           | Normal Tweets  |
 | ------------- | --------------------------- | -------------- |
 | Training      | 1384                        | 7146           |
