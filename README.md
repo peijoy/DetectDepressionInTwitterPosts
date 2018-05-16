@@ -31,6 +31,7 @@ Collected tweets are split into training, testing, and validation sets with a ra
 * [pandas] - provides easy-to-use data structures and data analysis tools for Python
 * [sklearn] - a software machine learning library
 * [tensorflow] - an open source machine learning framework for everyone
+
 In addition, the pretrained vectors for the Word2Vec model is from [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit).
 
 ### How to Run
