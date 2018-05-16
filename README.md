@@ -22,15 +22,15 @@ Collected tweets are split into training, testing, and validation sets with a ra
 | Total         | 2308                        | 11911          |
 
 ### Required Libraries
-* [ftfy] - fixes Unicode that's broken in various ways
-* [gensim] - enables storing and querying word vectors
-* [keras] - a high-level neural networks API running on top of TensorFlow
-* [matplotlib] - a Python 2D plotting library which produces publication quality figures
-* [nltk] - Natural Language Toolkit
-* [numpy] - the fundamental package for scientific computing with Python
-* [pandas] - provides easy-to-use data structures and data analysis tools for Python
-* [sklearn] - a software machine learning library
-* [tensorflow] - an open source machine learning framework for everyone
+* ftfy - fixes Unicode that's broken in various ways
+* gensim - enables storing and querying word vectors
+* keras - a high-level neural networks API running on top of TensorFlow
+* matplotlib - a Python 2D plotting library which produces publication quality figures
+* nltk - Natural Language Toolkit
+* numpy - the fundamental package for scientific computing with Python
+* pandas - provides easy-to-use data structures and data analysis tools for Python
+* sklearn - a software machine learning library
+* tensorflow - an open source machine learning framework for everyone
 
 In addition, the pretrained vectors for the Word2Vec model is from [here](https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit).
 
@@ -41,7 +41,7 @@ $ jupyter notebook
 ```
 
 ### Video Demo
-Here is a video demo of this project, enjoy!
+Here is a [video demo](https://youtu.be/LeHvF7e2LDg) of this project, enjoy!
 
 License
 ----
