@@ -41,7 +41,7 @@ $ jupyter notebook
 ```
 
 ### Video Demo
-Here is a [video demo](https://youtu.be/LeHvF7e2LDg) of this project, enjoy!
+Here is a [video demo](https://youtu.be/dbyZGuEZ8oU) of this project, enjoy!
 
 License
 ----
